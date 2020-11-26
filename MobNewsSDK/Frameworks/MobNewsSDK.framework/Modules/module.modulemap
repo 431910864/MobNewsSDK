@@ -1,0 +1,6 @@
+framework module MobNewsSDK {
+  umbrella header "MobNewsSDK.h"
+
+  export *
+  module * { export * }
+}
